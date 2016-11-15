@@ -6,7 +6,14 @@ Shopy is a fun shopping site. Where you can get Women Fashion, Men Fashion and B
 
 To purchase an item, a user has to create an account by signing up, if a new user or simply login if not a new user.
 
-To view how the items look individually. The first 3 items; Men shoes, Baby Carrier and Baby shoes are active. Just click on view.
+###Link buttons that are active:
+-------------------------------------------
+- Login and Sign up buttons
+- The first 3 item: Men shoes, Baby Carrier and Baby shoes view link.
+- Back to home page on sign up and login page
+- Sign up link on login page.
+- 'Already have an account?' link on sign up page.
+
 
 
 
