@@ -6,13 +6,15 @@
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
+/** End reset */
+
 
 #login {
 	max-width: 30%;
 	margin-left: 50%;
 	margin-right: -50%;
 	margin-top: 100px;
-	border-radius: 0.5em 0 0 0;
+	border-radius: 0.5px 0 0 0;
 	border-style: solid;
 	border-color: #888;
 	padding: 20px;"
