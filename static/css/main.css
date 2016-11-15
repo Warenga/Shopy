@@ -12,12 +12,11 @@
 	color: #665544;
 	text-align: center;
 	box-sizing: inherit;
-	background-image: url('images/background.jpg');
+	
 	}
 
 body {
 	font: Helvetica, Arial, sans-serif;
-  	background-color: #fafafa;
 }
 
 h1 {
@@ -44,7 +43,7 @@ a {
 #nav {
 	background-color: #efefef;
 	margin-top: 5px;
-	padding: 1px 0px 1px 0px;
+	padding: 5px 5px 5px 5px;
 }
 
 img {
@@ -114,13 +113,6 @@ img {
 	padding-right: 10px;
 	display: inline;
 }
-	#right {
-		text-align: right;
-	}
-
-	#left {
-		text-align: left;
-	}
 
 .info a {
 	color: #807c72;
